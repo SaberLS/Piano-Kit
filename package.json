@@ -1,15 +1,15 @@
 {
-  "name": "drum_kit",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC",
-  "devDependencies": {
-    "eslint": "^8.57.0",
-    "standard": "^17.1.0"
-  }
+    "name": "drum_kit",
+    "version": "1.0.0",
+    "description": "Built a simple piano for the first day of Wes Bos's #JavaScript30 challenge.",
+    "main": "index.html",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "SaberLS",
+    "license": "MIT",
+    "devDependencies": {
+        "eslint": "^8.57.0",
+        "standard": "^17.1.0"
+    }
 }
